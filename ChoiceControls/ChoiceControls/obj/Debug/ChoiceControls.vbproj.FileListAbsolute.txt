@@ -1,0 +1,13 @@
+C:\Users\Elvis\Documents\VSFIUNEW\sample-2---choice-controls-ecruz107\ChoiceControls\ChoiceControls\bin\Debug\ChoiceControls.exe.config
+C:\Users\Elvis\Documents\VSFIUNEW\sample-2---choice-controls-ecruz107\ChoiceControls\ChoiceControls\bin\Debug\ChoiceControls.exe
+C:\Users\Elvis\Documents\VSFIUNEW\sample-2---choice-controls-ecruz107\ChoiceControls\ChoiceControls\bin\Debug\ChoiceControls.pdb
+C:\Users\Elvis\Documents\VSFIUNEW\sample-2---choice-controls-ecruz107\ChoiceControls\ChoiceControls\bin\Debug\ChoiceControls.xml
+C:\Users\Elvis\Documents\VSFIUNEW\sample-2---choice-controls-ecruz107\ChoiceControls\ChoiceControls\obj\Debug\ChoiceControls.vbprojAssemblyReference.cache
+C:\Users\Elvis\Documents\VSFIUNEW\sample-2---choice-controls-ecruz107\ChoiceControls\ChoiceControls\obj\Debug\ChoiceControls.FrmChoices.resources
+C:\Users\Elvis\Documents\VSFIUNEW\sample-2---choice-controls-ecruz107\ChoiceControls\ChoiceControls\obj\Debug\ChoiceControls.Resources.resources
+C:\Users\Elvis\Documents\VSFIUNEW\sample-2---choice-controls-ecruz107\ChoiceControls\ChoiceControls\obj\Debug\ChoiceControls.vbproj.GenerateResource.cache
+C:\Users\Elvis\Documents\VSFIUNEW\sample-2---choice-controls-ecruz107\ChoiceControls\ChoiceControls\obj\Debug\ChoiceControls.vbproj.CoreCompileInputs.cache
+C:\Users\Elvis\Documents\VSFIUNEW\sample-2---choice-controls-ecruz107\ChoiceControls\ChoiceControls\obj\Debug\ChoiceControls.exe
+C:\Users\Elvis\Documents\VSFIUNEW\sample-2---choice-controls-ecruz107\ChoiceControls\ChoiceControls\obj\Debug\ChoiceControls.xml
+C:\Users\Elvis\Documents\VSFIUNEW\sample-2---choice-controls-ecruz107\ChoiceControls\ChoiceControls\obj\Debug\ChoiceControls.pdb
+C:\Users\Elvis\Documents\VSFIUNEW\sample-2---choice-controls-ecruz107\ChoiceControls\ChoiceControls\obj\Debug\ChoiceControls.FrmSummary.resources
